@@ -3,6 +3,7 @@
 I hope to start a technical course in 2023 (or as soon as I finish my master's thesis) 🙏
 - 👩🏽‍⚕️🔎 I'm a physiotherapist since 2017 and changing area.
 - 📷 You can find me on Instagram: https://www.instagram.com/albvieiraa/?hl=pt-br
+- And on LinkedIn: https://www.linkedin.com/in/maryllian-vieira-dev/
 
 
 
