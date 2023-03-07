@@ -2,8 +2,7 @@
 - 💻👩🏾‍💻☁️ I'm a developer in progress. I started in March/2022 studying by myself.
 I hope to start a technical course in 2023 🙏
 - 👩🏽‍⚕️🔎 I'm a physiotherapist since 2017 and changing area.
-- 📷 You can find me on Instagram: https://www.instagram.com/albvieiraa/?hl=pt-br
-- And on LinkedIn: https://www.linkedin.com/in/maryllian-vieira-dev/
+
 
 
 
