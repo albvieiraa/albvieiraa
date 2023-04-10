@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maryllian, but you can call me Mary.
 - 💻👩🏾‍💻☁️ I'm a developer in progress. I started in March/2022 studying by myself.
-I hope to start a technical course in 2023 🙏
+I am currently a student of the systems development analysis course at UNIFBV.
 - 👩🏽‍⚕️🔎 I'm a physiotherapist since 2017 and changing area.
 
 
