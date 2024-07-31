@@ -2,6 +2,8 @@
 <h3 align="center">Mestre em Fisioterapia e entusiasta da análise e ciência de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
+  
+- 👩‍💻 Estudante de ADS na UNIFBV e aluna do **Bootcamp Data Analytics - WoMakersCode**
 
 - 👯 Construindo meu portfólio em Dados [Projeto de Conclusão do Curso do Google Data Analytic](https://www.kaggle.com/code/maryllianvieira/google-project-23jan24)
 
