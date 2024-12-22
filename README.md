@@ -1,15 +1,15 @@
 <h1 align="center">Oi 👋, me chamo Maryllian Vieira</h1>
-<h3 align="center">Mestre em Fisioterapia e entusiasta da análise e ciência de dados</h3>
+<h3 align="center">Entusiasta da análise e ciência de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
   
 - 👩‍💻 Estudante de ADS na UNIFBV e aluna do **Bootcamp Data Analytics - WoMakersCode**
 
-- 👯 Construindo meu portfólio em Dados [Projeto de Conclusão do Curso do Google Data Analytic](https://www.kaggle.com/code/maryllianvieira/google-project-23jan24)
+- 👯 Construindo meu portfólio em Dados no [Kaggle](https://www.kaggle.com/code/maryllianvieira/google-project-23jan24)
 
-- 🤝 Em busca de estágio **em ciência e análise de dados**
+- 🤝 Em busca de estágio e vaga em posição de júnior **em ciência e análise de dados**
 
-- 💬 Me pergunte sobre **Python, SQL, JavaScript, HTML5 e CSS3**
+- 💬 Me pergunte sobre **Python, SQL, Salesforce, Copilot**
 
 - 📄 Aprofundo meus conhecimentos realizando cursos de formação e aplicação prática do que foi aprendido [https://www.linkedin.com/in/maryllian-vieira-dev/](https://www.linkedin.com/in/maryllian-vieira-dev/)
 
