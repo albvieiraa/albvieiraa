@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, me chamo Maryllian Vieira</h1>
 <h3 align="center">Entusiasta da análise e ciência de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
+- 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, IA, Machine Learning, Microsoft Fabric e Salesforce**
   
 - 👩‍💻 Estudante de ADS na UNIFBV e aluna do **Bootcamp Data Analytics - WoMakersCode**
 
@@ -9,7 +9,7 @@
 
 - 🤝 Em busca de estágio e vaga em posição de júnior **em ciência e análise de dados**
 
-- 💬 Me pergunte sobre **Python, SQL, Salesforce, Copilot**
+- 💬 Me pergunte sobre **Python e SQL**
 
 - 📄 Aprofundo meus conhecimentos realizando cursos de formação e aplicação prática do que foi aprendido [https://www.linkedin.com/in/maryllian-vieira-dev/](https://www.linkedin.com/in/maryllian-vieira-dev/)
 
