@@ -7,7 +7,7 @@
 
 - 👯 Construindo meu portfólio em Dados no [Kaggle](https://www.kaggle.com/code/maryllianvieira/google-project-23jan24)
 
-- 🤝 Em busca de estágio e vaga em posição de júnior **em ciência e análise de dados**
+- 🤝 Cientista de Dados Jr
 
 - 💬 Me pergunte sobre **Python e SQL**
 
