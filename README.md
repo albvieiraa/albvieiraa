@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, me chamo Maryllian Vieira</h1>
 <h3 align="center">Entusiasta da análise e ciência de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, IA, Machine Learning, Microsoft Fabric e Salesforce**
-  
-- 👩‍💻 Estudante de ADS na UNIFBV e aluna do **Bootcamp Data Analytics - WoMakersCode**
+- 👩‍💻 Atualmente estou aprendendo **Python, SQL, Power BI, IA, Machine Learning, Microsoft Fabric e Databricks**
 
-- 👯 Construindo meu portfólio em Dados no [Kaggle](https://www.kaggle.com/code/maryllianvieira/google-project-23jan24)
+- 👩‍🎓 Formada em ADS (UNIFBV) e Mestrado em Fisioterapia (UFPE)
+
+- 👯 Construindo meu portfólio em Dados aqui e no [Kaggle](https://www.kaggle.com/code/maryllianvieira/google-project-23jan24)
 
 - 🤝 Cientista de Dados Jr
 
